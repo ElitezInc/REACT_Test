@@ -22,6 +22,14 @@ Užduočiai atlikti galima pasinaudoti nemokama API iš kurios bus gaunami duome
 
 Naudojant ReactJs, yra pasitelkiama Routing funkcionalumu 'index.js' faile, kuriame yra nurodoma kaip yra pasiekiami App, Create ir Details komponentai su tam tikrais URL parametrais. Pasitelkus Bootstrap biblioteka yra vaizduojamas post'ų sąrašas 'App.js' faile, kur galima ant jų paspausti, kad pamatyti daugiau informacijos apie juos kitame lange. Taip pat yra implementuotas post'ų sukūrimo langas, kur įvesti duomenys siunčiami į Rest API kaip POST užklausa, kur gautas išsaugojimo atsakas yra pavaizduojamas saraše.
 
+## Projekto paleidimas
+
+Atsidarius terminalą projekto aplankale, reikia įvykdyti šias komandas:
+``` bash
+npm i
+npm start
+```
+
 ### Kontaktiniai duomenys
 
 Gabrielius Važnevičius
